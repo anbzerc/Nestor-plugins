@@ -1,0 +1,10 @@
+plugin: OpenDeezer
+author: Anbzerc
+params:
+  category: ouvrir un logiciel
+  alias: 10 h, 10h, 10, deezer
+  target: Deezer
+  expressions:
+    - "Ouvre Deezer"
+    - "Ouvre Deezer"
+    - "Lance Deezer"
