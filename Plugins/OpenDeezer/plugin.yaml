@@ -1,6 +1,6 @@
 plugin: OpenDeezer
 author: Anbzerc
-params:
+model:
   category: ouvrir un logiciel
   alias: 10 h, 10h, 10, deezer
   target: Deezer
@@ -8,3 +8,8 @@ params:
     - "Ouvre Deezer"
     - "Ouvre Deezer"
     - "Lance Deezer"
+litteral:
+  - "ouvre Deezer"
+  - "ouvres Deezer"
+  - "ouvre 10h"
+  - "ouvre 10 h"
