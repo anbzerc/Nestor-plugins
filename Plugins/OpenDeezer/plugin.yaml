@@ -8,7 +8,7 @@ model:
     - "Ouvre Deezer"
     - "Ouvre Deezer"
     - "Lance Deezer"
-litteral:
+litterals:
   - "ouvre Deezer"
   - "ouvres Deezer"
   - "ouvre 10h"
